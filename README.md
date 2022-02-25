@@ -66,6 +66,7 @@ NRC: 10133
 
 ![image](https://user-images.githubusercontent.com/84757114/155754315-4d688926-2f08-4b4f-a7d5-da0f3eeb9aac.png)
 
+![image](https://user-images.githubusercontent.com/84757114/155755606-92618a94-4940-44b9-85a1-815ee346ab6c.png)
 
 
 **5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
