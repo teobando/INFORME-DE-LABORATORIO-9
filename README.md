@@ -62,6 +62,12 @@ NRC: 10133
 
 *4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.*
 
+![image](https://user-images.githubusercontent.com/84757114/155754012-2c156992-0241-4634-bd1a-88aa8cb02da0.png)
+
+![image](https://user-images.githubusercontent.com/84757114/155754315-4d688926-2f08-4b4f-a7d5-da0f3eeb9aac.png)
+
+
+
 **5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 **6. VIDEO:**
