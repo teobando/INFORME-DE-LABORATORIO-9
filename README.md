@@ -14,7 +14,13 @@ NRC: 10133
 
 ***Objetivo General***
 
+- Determinar analiticamente las características de los numeros complejos, mediante una práctica de laboratorio  para entender el comportamiento en diferentes operaciones 
+
 ***Objetivo Especificos***
+
+- Conocer los conceptos de lo que es un fasor en su forma rectangular y polar  para tener una  idea clara de lo que trata y cómo se comporta en diferentes operaciones.  
+- Realizar diferentes operaciones para transformar fasores de rectangulares a polares 
+- Realizar diferentes operaciones compuestas. 
 
 **2. MARCO TEORICO**
 
@@ -48,6 +54,12 @@ NRC: 10133
 
 *3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.*
 
+![image](https://user-images.githubusercontent.com/94098157/155755232-ac4a9f48-34ab-488f-9b12-563e587a386a.png)
+
+![image](https://user-images.githubusercontent.com/94098157/155755276-672a9887-2f56-4f82-b267-14c3f65290ce.png)
+
+![image](https://user-images.githubusercontent.com/94098157/155755300-9b47aecd-481b-4e14-9da0-afa91a0a6b7f.png)
+
 ![image](https://user-images.githubusercontent.com/94098157/155744914-9a440b6a-3f0e-4293-8025-bc6a11fe6f6a.png)
 
 ![image](https://user-images.githubusercontent.com/94098157/155744962-32248f3a-6611-4c7f-9a5a-e4e57e6407b1.png)
@@ -66,14 +78,22 @@ NRC: 10133
 
 ![image](https://user-images.githubusercontent.com/84757114/155754315-4d688926-2f08-4b4f-a7d5-da0f3eeb9aac.png)
 
-![image](https://user-images.githubusercontent.com/84757114/155755606-92618a94-4940-44b9-85a1-815ee346ab6c.png)
-
 
 **5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
+![image](https://user-images.githubusercontent.com/94098157/155757071-519f09fc-f5fc-441b-8aa7-a8ececc69768.png)
+
 **6. VIDEO:**
 
+https://www.youtube.com/watch?v=tAVSshKtJDA
+
 **7. CONCLUSIONES**
+
+- Se necesita entender las formulas para poder pasar de polar a rectangular y viceversa, para así poder resolver los ejercicios en los cuales tenga operaciones en las cuales se faciliten haciendo tanto en polar como en rectangular
+
+- ara las operaciones de suma y resta es menester tomar en cuenta que es más rápido de resolver mediante rectangulares, sin embargo para las operaciones de multiplicación y división deberá optar por su forma polar
+
+- Estas transformaciones son de gran importancia para la aplicación de circuitos, ya que los ángulos nos indica cuánto está desfasado y la magnitud viene siendo la cantidad, es importante notar que el ángulo puede ser positivo o negativo el cual determinará la dirección del mismo
 
 **8. BIBLIOGRAFÍA**
 
