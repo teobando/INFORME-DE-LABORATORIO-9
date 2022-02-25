@@ -1,1 +1,33 @@
-# INFORME-DE-LABORATORIO-9
+# INFORME DE LABORATORIO 9
+
+**UNIVERSIDAD DE LAS FUERZAS ARMADAS**
+
+**DEPARTAMENTO DE ELECTRICA Y ELECTRÓNICA**
+
+**FUNDAMENTOS DE CIRCUITOS ELECTRICOS**
+
+Nombres : Martin Coronel, Jefferson Chicaiza, Tito Obando 
+
+NRC: 10133
+
+**1. OBJETIVOS**
+
+***Objetivo General***
+
+***Objetivo Especificos***
+
+**2. MARCO TEORICO**
+
+**3. MATERIAL Y EQUIPO REQUERIDO**
+
+**4. EXPLICACIÓN DEL PROCEDIMIENTO**
+
+**5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+**6. VIDEO:**
+
+**7. CONCLUSIONES**
+
+**8. BIBLIOGRAFÍA**
+
+Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION
